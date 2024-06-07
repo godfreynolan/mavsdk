@@ -25,4 +25,13 @@
         android:layout_below="@id/btn_takeoff"
         android:layout_marginTop="16dp"
         android:text="Land" />
+
+    <Button
+        android:id="@+id/btn_altitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_land"
+        android:layout_marginTop="16dp"
+        android:text="Get Altitude" />
+
 </RelativeLayout>
